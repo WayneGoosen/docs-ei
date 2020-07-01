@@ -79,7 +79,7 @@ Create this project directory if you have used **Connectors** in your medition s
 
 ## Composite Application Project
 
-This poject directory allows you to package all the artifacts (stored in other integration projects) into one composite application (C-APP). This C-APP can then be deployed in the Micro Integrator server. See the instructions on [packaging integration artifacts](../../develop/packaging-artifacts).
+This project directory allows you to package all the artifacts (stored in other integration projects) into one composite application (C-APP). This C-APP can then be deployed in the Micro Integrator server. See the instructions on [packaging integration artifacts](../../develop/packaging-artifacts).
 
 ## Alternative: Creating Projects
 
